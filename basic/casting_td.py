@@ -63,7 +63,7 @@ print(f"{float(dataBool)} {type(float(dataBool))}") # kalau dari bool ke float h
 # bool to str 
 print(f"{str(dataBool)} {type(str(dataBool))}") # kalau dari bool ke str hasilnya akan 1 jika True, akan 0 jika False, tetapi angka ini nilai nya str tidak bisa di gunakan untuk proses aritmatika
 
-
+# tes
 
 
 
