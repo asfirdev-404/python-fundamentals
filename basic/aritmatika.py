@@ -14,32 +14,32 @@ pertambahan = a + b # untuk menjumlahkan bilangan
 print(f"\nHasil {a} + {b} = {pertambahan}")
 
 # Pengurangan -
-pertambahan = a - b # untuk pengurangan bilangan
-print(f"\nHasil {a} - {b} = {pertambahan}")
+pengurangan = a - b # untuk pengurangan bilangan
+print(f"\nHasil {a} - {b} = {pengurangan}")
 
 # Perkalian *
-pertambahan = a * b # untuk mengalikan bilangan
-print(f"\nHasil {a} * {b} = {pertambahan}")
+perkalian = a * b # untuk mengalikan bilangan
+print(f"\nHasil {a} * {b} = {perkalian}")
 
 # Pembagian /
-pertambahan = a / b # untuk membagi bilangan
-print(f"\nHasil {a} / {b} = {pertambahan}")
+pembagian = a / b # untuk membagi bilangan
+print(f"\nHasil {a} / {b} = {pembagian}")
 
 # Modulus %
-pertambahan = a % b # untuk mendapatkan bilangan sisa dari pembagian
-print(f"\nHasil {a} % {b} = {pertambahan}")
+modulus = a % b # untuk mendapatkan bilangan sisa dari pembagian
+print(f"\nHasil {a} % {b} = {modulus}")
 
 # Pembagian bulat //
-pertambahan = a // b # untuk membulatkan hasil bilangan yang di bagi
-print(f"\nHasil {a} // {b} = {pertambahan}")
+pembagian_bulat= a // b # untuk membulatkan hasil bilangan yang di bagi
+print(f"\nHasil {a} // {b} = {pembagian_bulat}")
 
-# Akar **
-pertambahan = a ** b # untuk mengakar bilangan
-print(f"\nHasil {a} ** {b} = {pertambahan}")
+# Pengakaran **
+pengakaran = a ** b # untuk mengakar bilangan
+print(f"\nHasil {a} ** {b} = {pengakaran}")
 
 
 # ada operasi assigment gabungan (di singkat) :
-# berfungsi untuk memudahkan cara penulisan 
+# berfungsi untuk memudahkan cara penulisan dan mengubah nilai variable dengan mudah
 
 # contoh 
 a = 2
